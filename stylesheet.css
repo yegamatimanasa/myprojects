@@ -1,0 +1,33 @@
+body{
+    background-color: cyan;
+}
+h1{
+    font-family: Montserrat;
+    color:hsl(0, 87%, 48%);
+    text-align: center;
+    background-color: greenyellow;
+}
+hr{
+    border:2px solid black;
+    width: 50%;
+}
+h3{
+    color: royalblue;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+p{
+    font-family: Montserrat;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+img{
+    width:30%;
+    margin-top: 50px;
+    border: 1px solid pink;
+    border-radius: 4px;
+    padding: 5px ;
+    width: 15opx;
+}

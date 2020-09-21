@@ -1,0 +1,58 @@
+.banner{
+
+    width: 1320px;
+    height: 800px;
+    background-image: url('https://cdn.galaxy.tf/unit-media/tc-default/uploads/images/room_photo/001/573/503/superior-deluxe-suite-1-standard.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner .navbar{
+   margin-top: 1.2em;
+}
+.banner .navbar-brand{
+    font-size: 1.5em;
+    font-weight:900;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.banner .nav{
+    margin-right: 10%;
+
+}
+.banner .nav li a{
+    color:rgb(10, 252, 51);
+    font-size: 1.2em;
+
+}
+.banner .info{
+    margin-top: 15%;
+}
+.banner .info h1{
+    font-size: 2.5em;
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+.banner .info p{
+
+    font-size: 1.2em;
+    font-weight: 500;
+     color: rgba(32, 45, 228, 0.979);
+    letter-spacing: 1px;
+
+}
+.banner .info a{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    color:#ffffff;
+    background: rgb(255, 0, 0);
+    padding: 10px 20px;
+    margin-top: 2.5em;
+
+}
+.banner .info a :hover{
+    background: rgb(240, 240, 16)
+}
+
+
